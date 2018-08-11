@@ -1,5 +1,5 @@
 <!doctype html>
-<?php include("login/verifica_login.php")?>
+<?php include("../verifica_login.php")?>
 <html lang="en">
   <head>
     <!-- Required meta tags -->

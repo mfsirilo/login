@@ -1,6 +1,5 @@
 <?php
-session_start();
-include('verifica_login.php');
+include('../verifica_login.php');
 ?>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="nav-link">

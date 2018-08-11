@@ -23,7 +23,7 @@ $pernoites              =    $_POST['pernoites'];
 
 $servidor   = "localhost";
 $usuario    = "root";
-$senhadb    = "rootsql";
+$senhadb    = "";
 $dbname     = "login";
 
 
