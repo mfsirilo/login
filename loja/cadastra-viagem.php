@@ -1,6 +1,5 @@
 <?php
 
-
 $nome_paciente          =    $_POST['nome_p'];
 $telefone_paciente      =    $_POST['telefone_p'];
 $datan_paciente         =    $_POST['datan_p'];
@@ -25,7 +24,6 @@ $servidor   = "localhost";
 $usuario    = "root";
 $senhadb    = "";
 $dbname     = "login";
-
 
 //$conexao = mysqli_connect($servidor, $usuario, $senhadb, $dbname);
 $conexao = new mysqli($servidor,$usuario,$senhadb,$dbname);
